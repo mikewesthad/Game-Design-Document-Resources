@@ -2,6 +2,13 @@
 
 A collection game design document resources, some historic and some more modern.
 
+Start here: [Should you make a Game Design Document (video)](https://www.youtube.com/watch?v=1_DBsrJGiVY)
+
+## Templates
+
+- One Page Template - [Video](https://www.youtube.com/watch?v=q96lz725gIw), [Google Doc](https://docs.google.com/document/d/1npEvqcMZSp0IX2hWw6Qq0WqJVfmVqS_YOGFWnnwfh-A/edit)
+- [National STEM Video Game Challenge - Game Design Document](https://stemchallenge.org/resources/game-design-documents/)
+
 ## Examples
 
 - [Doom](https://5years.doomworld.com/doombible/) (1992)
@@ -18,7 +25,3 @@ A collection game design document resources, some historic and some more modern.
 - [An Ant's Life](http://gamescrye.com/wp-content/uploads/2016/08/AnAntsLife-GameDesignDocument.pdf) (2009)
 - [Saint's Row PSP](http://gamescrye.com/wp-content/uploads/2016/08/SR_Undercover_GDD.pdf)
 - [Deus Ex](https://www.gamasutra.com/view/news/285520/Annotated_version_of_an_original_Deus_Ex_design_doc_surfaces.php)
-
-## Templates/Resources
-
-- [National STEM Video Game Challenge - Game Design Document](https://stemchallenge.org/resources/game-design-documents/)
