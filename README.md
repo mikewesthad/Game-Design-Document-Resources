@@ -2,7 +2,7 @@
 
 A collection game design document resources, some historic and some more modern.
 
-Start here: [Should you make a Game Design Document (video)](https://www.youtube.com/watch?v=1_DBsrJGiVY)
+Start here: [Should you make a Game Design Document (video)](https://www.youtube.com/watch?v=1_DBsrJGiVY)    
 Template created for my classes: [Google Doc](https://docs.google.com/document/d/1nJYx6wZ97PiVaGdpQrPgEBnAV_ZTvYatdIjRbCWhIHQ/copy)
 
 ## Other Templates
